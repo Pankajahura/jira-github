@@ -22,7 +22,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Save and check it instantly check redeployed!testing again and again
-            Build -tenth deploy
+            Build -eleventh deploy
           </li>
         </ol>
 
