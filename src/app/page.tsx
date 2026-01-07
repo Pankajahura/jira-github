@@ -24,7 +24,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Save and check it instantly check redeployed!testing again and again
-            Build -eleventh deploy-8
+            Build -eleventh deploy-20
             {process.env.NEXT_PUBLIC_TESTING_SECRET}
           </li>
         </ol>
